@@ -1,11 +1,11 @@
 # 💻WiMLDS Berlin - Meetup Presentations
 
-This repository contains presentation materials from meetups organized by the Berlin chapter of Women in Machine Learning and Data Science.
+Missed an event organized by the Berlin chapter of Women in Machine Learning and Data Science? Check out the presentation slides, materials, exercises etc from our meetups in this repository.
 
 ## Talks
 | Date  | Title   |
 |---|---|
-|  05/11/2020 | Rethinking Data @ SoundCloud | 
+|  05/11/2020 | [Rethinking Data @ SoundCloud](blob/master/presentations/2020_11_05_rethinking_data_soundcloud.pdf) | 
 
 ## Workshops
 
