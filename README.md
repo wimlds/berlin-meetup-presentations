@@ -5,7 +5,7 @@ Missed an event organized by the Berlin chapter of Women in Machine Learning and
 ## Talks
 | Date  | Title   |
 |---|---|
-|  05/11/2020 | [Rethinking Data @ SoundCloud](blob/master/presentations/2020_11_05_rethinking_data_soundcloud.pdf) | 
+|  05/11/2020 | [Rethinking Data @ SoundCloud](/presentations/2020_11_05_rethinking_data_soundcloud.pdf) | 
 
 ## Workshops
 
